@@ -1,2 +1,0 @@
-# MyMusicApp
-Simple music app
